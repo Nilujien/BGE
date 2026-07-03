@@ -1,0 +1,14 @@
+{
+  "name": "@bge/shared",
+  "private": true,
+  "version": "0.1.0",
+  "type": "module",
+  "main": "./schema/GameState.ts",
+  "types": "./schema/GameState.ts",
+  "dependencies": {
+    "@colyseus/schema": "^2.0.0"
+  },
+  "devDependencies": {
+    "typescript": "^5.5.4"
+  }
+}
